@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrispeterson3
 - 👀 I’m interested in 📈📉 stocks
-- 🌱 I’m currently diving deeper into trading backtesting and trading the markets
+- 🌱 I’m currently trading the markets and diving deeper into strategy backtesting 
 - 💞️ I’m looking to collaborate on trading algos
 - 📫 How to reach me 🐌 ✉️
 
